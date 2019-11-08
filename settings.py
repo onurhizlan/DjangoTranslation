@@ -52,7 +52,6 @@ MIDDLEWARE = [
 
 ]
 
-ROOT_URLCONF = 's4in.urls'
 
 TEMPLATES = [
     {
