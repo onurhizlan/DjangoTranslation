@@ -71,7 +71,6 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 's4in.wsgi.application'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'templates/static'),
